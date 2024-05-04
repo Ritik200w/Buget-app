@@ -13,4 +13,4 @@ spec:
     - name: image-name
       value: 'budget-app'
     - name: docker-hub-username
-      value: 'Ritik200w'
+      value: 'ritikw'
