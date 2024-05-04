@@ -8,7 +8,7 @@ spec:
     namespace: default
   project: default
   source:
-    repoURL: 'https://github.com/krishnavamshi933/Budget-App.git'
+    repoURL: 'https://github.com/Ritik200w/Budget-App.git'
     path: manifests/  # Assuming your manifests are in the "manifests/" directory
     targetRevision: HEAD
   syncPolicy:
